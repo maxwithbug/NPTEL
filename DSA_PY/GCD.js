@@ -1,6 +1,6 @@
 /** Algorithm **/
 
-//first there will be 2 factor set in m and n 
+//first there will be 2 factor set in m and n .
 
 /*
 fist we will cycle through every number  till the m number 
